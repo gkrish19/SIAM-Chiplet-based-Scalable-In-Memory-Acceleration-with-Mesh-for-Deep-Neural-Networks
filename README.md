@@ -52,7 +52,7 @@ References:
 [R5] Pai-Yu Chen, Xiaochen Peng, and Shimeng Yu. "NeuroSim: A circuit-level macro model for benchmarking neuro-inspired architectures in online learning." IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 37, no. 12 (2018): 3067-3080.
 
 For any queries please contact the following:
-1. Gokul Krishnan: gkrish10@asu.edu
+1. Gokul Krishnan: gkrish19@asu.edu
 2. Sumit K. Mandal: skmandal@wisc.edu
 
 
