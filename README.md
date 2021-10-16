@@ -43,7 +43,8 @@ To change the network structure please choose the required one from the Networks
 
 A demo video is added to the repository to help users get started. A detailed user manual will be posted shortly.
 To run the NoC and NoP files you must enter the Interconnect folder through the terminal and type chmod+x booksim.
-To run the gui for DRAM use the final_gui.py within the VAMPIRE folder.
+To run the gui for DRAM use the final_gui.py within the VAMPIRE folder. 
+First time user must make file for the vampire, ramulator, and the SIAM tool.
 
 The files are hosted in a dropbox folder shared via a link that can used to download the whole repository. This is done as larger fiels exist in the whole framework that limit the upload capabilities. 
 
