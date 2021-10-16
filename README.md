@@ -1,7 +1,7 @@
 # SIAM-Chiplet-based-Scalable-In-Memory-Acceleration-with-Mesh-for-Deep-Neural-Networks
 
 A comprehensive tool that allows for system-level performance estimation of chiplet-based In-Memory computing (IMC) architectures. 
-SIAM consists of 4 main engines: Partition and Mapping Engine, Circuits and NoC Engine, NoP Engine, and DRAM Engine. This tool incorporates device, circuit, architecture, and algorithm properties of IMC. The first three engines are combined into a single codebase while the DRAM engine is provided as a separate GUI.
+SIAM consists of 4 main engines: Partition and Mapping Engine, Circuits and NoC Engine, NoP Engine, and DRAM Engine. This tool incorporates device, circuit, architecture, and algorithm properties of IMC. The first three engines are combined into a single codebase while the DRAM engine is provided as a separate GUI. To run the gui for DRAM use the final_gui.py within the VAMPIRE folder.
 
 The figure below shows the overall block diagram of SIAM:
 ![image](https://user-images.githubusercontent.com/39285763/137603062-8f04f99d-d874-4e8e-8d6d-4462215067e9.png)
