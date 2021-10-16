@@ -59,6 +59,8 @@ For any queries please contact the following:
 1. Gokul Krishnan: gkrish19@asu.edu
 2. Sumit K. Mandal: skmandal@wisc.edu
 
+The model is made publicly available on a non-commercial basis. Copyright of the model is maintained by the developers, and the model is distributed under the terms of the Creative Commons Attribution-NonCommercial 4.0 International Public License (https://creativecommons.org/licenses/by-nc/4.0/legalcode).
+
 
 Acknowledgements:
 This work was supported in part by C-BRIC, one of the six centers in JUMP, a Semiconductor Research Corporation program sponsored by DARPA.
