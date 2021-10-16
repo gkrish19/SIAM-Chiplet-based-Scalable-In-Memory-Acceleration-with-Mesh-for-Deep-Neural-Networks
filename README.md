@@ -39,6 +39,8 @@ To change the network structure please choose the required one from the Networks
 
 A demo video is added to the repository to help users get started. A detailed user manual will be posted shortly.
 
+The files are hosted in a dropbox folder shared via a link that can used to download the whole repository. This is done as larger fiels exist in the whole framework that limit the upload capabilities. 
+
 If you are using this tool, please cite the following work:
 [1] Gokul Krishnan, Sumit K. Mandal, Manvitha Pannala, Chaitali Chakrabarti, Jae-Sun Seo, Umit Y. Ogras, and Yu Cao. "SIAM: Chiplet-based Scalable In-Memory Acceleration with Mesh for Deep Neural Networks." ACM Transactions on Embedded Computing Systems (TECS) 20, no. 5s (2021): 1-24.
 [2] Gokul Krishnan, Sumit K. Mandal, Chaitali Chakrabarti, Jae-sun Seo, Umit Y. Ogras, and Yu Cao. "Interconnect-aware area and energy optimization for in-memory acceleration of DNNs." IEEE Design & Test (2020). 
