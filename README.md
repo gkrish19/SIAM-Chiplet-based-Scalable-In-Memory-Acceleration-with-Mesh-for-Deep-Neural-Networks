@@ -54,14 +54,19 @@ If you are using this tool, you are required to cite the following work:
 Additional work to be cited:
 
 [2] Gokul Krishnan, Sumit K. Mandal, Chaitali Chakrabarti, Jae-sun Seo, Umit Y. Ogras, and Yu Cao. "Interconnect-aware area and energy optimization for in-memory acceleration of DNNs." IEEE Design & Test (2020). 
+
 [3] Sumit K. Mandal, Gokul Krishnan, Chaitali Chakrabarti, Jae-Sun Seo, Yu Cao, and Umit Y. Ogras. "A Latency-Optimized Reconfigurable NoC for In-Memory Acceleration of DNNs." IEEE Journal on Emerging and Selected Topics in Circuits and Systems 10, no. 3 (2020): 362-375.
 
 References:
 
 [R1] Walker J. Turner, et al. "Ground-referenced signaling for intra-chip and short-reach chip-to-chip interconnects." 2018 IEEE Custom Integrated Circuits Conference (CICC). IEEE, 2018.
+
 [R2] S Sinha, et. al, “Exploring Sub-20nm FinFET Design with Predictive Technology Models.” IEEE DAC 2012.
+
 [R3] Gokul Krishnan, Sumit K. Mandal, Chaitali Chakrabarti, Jae-sun Seo, Umit Y. Ogras, and Yu Cao. "Interconnect-aware area and energy optimization for in-memory acceleration of DNNs." IEEE Design & Test (2020). 
+
 [R4] Yakun Sophia Shao, et al. "Simba: Scaling deep-learning inference with multi-chip-module-based architecture." Proceedings of the 52nd Annual IEEE/ACM International Symposium on Microarchitecture. 2019.
+
 [R5] Pai-Yu Chen, Xiaochen Peng, and Shimeng Yu. "NeuroSim: A circuit-level macro model for benchmarking neuro-inspired architectures in online learning." IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 37, no. 12 (2018): 3067-3080.
 
 For any queries please contact the following:
