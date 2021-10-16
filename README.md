@@ -1,4 +1,4 @@
-# SIAM-Chiplet-based-Scalable-In-Memory-Acceleration-with-Mesh-for-Deep-Neural-Networks
+# SIAM: Chiplet-based Scalable In-Memory Acceleration with Mesh for Deep Neural Networks
 
 A comprehensive tool that allows for system-level performance estimation of chiplet-based In-Memory computing (IMC) architectures. 
 This work was developed by the researchers at Arizona State University and University of Wisconsin-Madison. The PIs invovled are Prof. Yu Cao, Prof. Umit Y. Ogras, Prof. Jae-sun Seo, and Prof. Chaitali Chakrabarti.
