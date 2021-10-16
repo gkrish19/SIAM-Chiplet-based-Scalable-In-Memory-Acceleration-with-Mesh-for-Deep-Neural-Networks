@@ -19,6 +19,7 @@ SIAM supports two different parition schemes to generate either a homogeneous st
 The current version of SIAM is a beta version that we are currently testing and improving. We have an NoC-mesh, and NoP-mesh with the driver and interconnect properties as that in the Nvidia GRS driver [R1]. The interconnect parasitics have been incorporated into the NoP by using the PTM models [R2]. The current mapping within SIAM follows that in [R3]. The current version of the tool does not include software accuracy estimation. It will be added in future versions. SIAM has been calibrated with the results to that in SIMBA [R4].
 
 Features incorporated in the beta version:
+
 1. In-Memory Computing Circuits and Architecture
 2. Network-on-package - Mesh structure
 3. Network-on-chip - Mesh
@@ -28,6 +29,7 @@ Features incorporated in the beta version:
 7. Support for a wide range of DNNs (refer to Network folder)
 
 Folder/File Defitions:
+
 SIAM: The main codebase for the IMC and parition and mapping engine
 VAMPIRE: The overall DRAM engine GUI file. This can be run using the final_gui.py file within it
 Interconnect: NoC and NoP estiamtion folder
@@ -46,13 +48,16 @@ To run the gui for DRAM use the final_gui.py within the VAMPIRE folder.
 The files are hosted in a dropbox folder shared via a link that can used to download the whole repository. This is done as larger fiels exist in the whole framework that limit the upload capabilities. 
 
 If you are using this tool, you are required to cite the following work:
+
 [1] Gokul Krishnan, Sumit K. Mandal, Manvitha Pannala, Chaitali Chakrabarti, Jae-Sun Seo, Umit Y. Ogras, and Yu Cao. "SIAM: Chiplet-based Scalable In-Memory Acceleration with Mesh for Deep Neural Networks." ACM Transactions on Embedded Computing Systems (TECS) 20, no. 5s (2021): 1-24.
 
 Additional work to be cited:
+
 [2] Gokul Krishnan, Sumit K. Mandal, Chaitali Chakrabarti, Jae-sun Seo, Umit Y. Ogras, and Yu Cao. "Interconnect-aware area and energy optimization for in-memory acceleration of DNNs." IEEE Design & Test (2020). 
 [3] Sumit K. Mandal, Gokul Krishnan, Chaitali Chakrabarti, Jae-Sun Seo, Yu Cao, and Umit Y. Ogras. "A Latency-Optimized Reconfigurable NoC for In-Memory Acceleration of DNNs." IEEE Journal on Emerging and Selected Topics in Circuits and Systems 10, no. 3 (2020): 362-375.
 
 References:
+
 [R1] Walker J. Turner, et al. "Ground-referenced signaling for intra-chip and short-reach chip-to-chip interconnects." 2018 IEEE Custom Integrated Circuits Conference (CICC). IEEE, 2018.
 [R2] S Sinha, et. al, “Exploring Sub-20nm FinFET Design with Predictive Technology Models.” IEEE DAC 2012.
 [R3] Gokul Krishnan, Sumit K. Mandal, Chaitali Chakrabarti, Jae-sun Seo, Umit Y. Ogras, and Yu Cao. "Interconnect-aware area and energy optimization for in-memory acceleration of DNNs." IEEE Design & Test (2020). 
@@ -60,6 +65,7 @@ References:
 [R5] Pai-Yu Chen, Xiaochen Peng, and Shimeng Yu. "NeuroSim: A circuit-level macro model for benchmarking neuro-inspired architectures in online learning." IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 37, no. 12 (2018): 3067-3080.
 
 For any queries please contact the following:
+
 1. Gokul Krishnan: gkrish19@asu.edu
 2. Sumit K. Mandal: skmandal@wisc.edu
 
