@@ -45,7 +45,7 @@ To run the gui for DRAM use the final_gui.py within the VAMPIRE folder.
 
 The files are hosted in a dropbox folder shared via a link that can used to download the whole repository. This is done as larger fiels exist in the whole framework that limit the upload capabilities. 
 
-If you are using this tool, please cite the following work:
+If you are using this tool, you are required to cite the following work:
 [1] Gokul Krishnan, Sumit K. Mandal, Manvitha Pannala, Chaitali Chakrabarti, Jae-Sun Seo, Umit Y. Ogras, and Yu Cao. "SIAM: Chiplet-based Scalable In-Memory Acceleration with Mesh for Deep Neural Networks." ACM Transactions on Embedded Computing Systems (TECS) 20, no. 5s (2021): 1-24.
 [2] Gokul Krishnan, Sumit K. Mandal, Chaitali Chakrabarti, Jae-sun Seo, Umit Y. Ogras, and Yu Cao. "Interconnect-aware area and energy optimization for in-memory acceleration of DNNs." IEEE Design & Test (2020). 
 [3] Sumit K. Mandal, Gokul Krishnan, Chaitali Chakrabarti, Jae-Sun Seo, Yu Cao, and Umit Y. Ogras. "A Latency-Optimized Reconfigurable NoC for In-Memory Acceleration of DNNs." IEEE Journal on Emerging and Selected Topics in Circuits and Systems 10, no. 3 (2020): 362-375.
