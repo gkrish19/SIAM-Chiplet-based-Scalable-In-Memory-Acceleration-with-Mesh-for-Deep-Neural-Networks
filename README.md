@@ -25,7 +25,7 @@ Features incorporated in the beta version:
 3. Network-on-chip - Mesh
 4. DRAM Estiamtion
 5. Chiplet Architecture customization
-6. NoP driver andinterconnect from Nvidia GRS
+6. NoP driver and interconnect from Nvidia GRS
 7. Support for a wide range of DNNs (refer to Network folder)
 
 Folder/File Defitions:
