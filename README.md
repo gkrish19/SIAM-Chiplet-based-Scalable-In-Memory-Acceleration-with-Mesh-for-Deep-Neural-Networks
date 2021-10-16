@@ -1,6 +1,8 @@
 # SIAM-Chiplet-based-Scalable-In-Memory-Acceleration-with-Mesh-for-Deep-Neural-Networks
 
 A comprehensive tool that allows for system-level performance estimation of chiplet-based In-Memory computing (IMC) architectures. 
+This work was developed by the researchers at Arizona State University and University of Wisconsin-Madison. The PIs invovled are Prof. Yu Cao, Prof. Umit Y. Ogras, Prof. Jae-sun Seo, and Prof. Chaitali Chakrabarti.
+
 SIAM consists of 4 main engines: Partition and Mapping Engine, Circuits and NoC Engine, NoP Engine, and DRAM Engine. This tool incorporates device, circuit, architecture, and algorithm properties of IMC. The first three engines are combined into a single codebase while the DRAM engine is provided as a separate GUI. 
 
 The figure below shows the overall block diagram of SIAM:
