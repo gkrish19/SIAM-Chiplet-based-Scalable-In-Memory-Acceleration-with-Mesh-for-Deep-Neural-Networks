@@ -1,7 +1,7 @@
 # SIAM-Chiplet-based-Scalable-In-Memory-Acceleration-with-Mesh-for-Deep-Neural-Networks
 
 A comprehensive tool that allows for system-level performance estimation of chiplet-based In-Memory computing (IMC) architectures. 
-SIAM consists of 4 main engines: Partition and Mapping Engine, Circuits and NoC Engine, NoP Engine, and DRAM Engine. This tool incorporates device, circuit, architecture, and algorithm properties of IMC. The first three engines are combined into a single codebase while the DRAM engine is provided as a separate GUI. To run the gui for DRAM use the final_gui.py within the VAMPIRE folder.
+SIAM consists of 4 main engines: Partition and Mapping Engine, Circuits and NoC Engine, NoP Engine, and DRAM Engine. This tool incorporates device, circuit, architecture, and algorithm properties of IMC. The first three engines are combined into a single codebase while the DRAM engine is provided as a separate GUI. 
 
 The figure below shows the overall block diagram of SIAM:
 ![image](https://user-images.githubusercontent.com/39285763/137603062-8f04f99d-d874-4e8e-8d6d-4462215067e9.png)
@@ -38,6 +38,8 @@ Networks: Network structures for different DNNs for the user
 To change the network structure please choose the required one from the Networks folder and add it to the SIAM folder. For any new network structure, please edit the network.csv file in the following order across columns: IFM_size, IFM_size, N_IFM, Kx, Ky, NOFM, 0/1 if not followed/followed by pooling, layer-wsie sparsity.
 
 A demo video is added to the repository to help users get started. A detailed user manual will be posted shortly.
+To run the NoC and NoP files you must enter the Interconnect folder through the terminal and type chmod+x booksim.
+To run the gui for DRAM use the final_gui.py within the VAMPIRE folder.
 
 The files are hosted in a dropbox folder shared via a link that can used to download the whole repository. This is done as larger fiels exist in the whole framework that limit the upload capabilities. 
 
