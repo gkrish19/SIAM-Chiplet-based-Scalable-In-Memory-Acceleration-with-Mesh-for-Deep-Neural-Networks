@@ -41,7 +41,7 @@ Networks: Network structures for different DNNs for the user
 
 To change the network structure please choose the required one from the Networks folder and add it to the SIAM folder. For any new network structure, please edit the network.csv file in the following order across columns: IFM_size, IFM_size, N_IFM, Kx, Ky, NOFM, 0/1 if not followed/followed by pooling, layer-wsie sparsity.
 
-A demo video is added to the repository to help users get started. A detailed user manual will be posted shortly.
+A demo video is added to the repository (through dropbox) to help users get started. A detailed user manual will be posted shortly.
 To run the NoC and NoP files you must enter the Interconnect folder through the terminal and type chmod +x booksim.
 To run the gui for DRAM use the final_gui.py within the VAMPIRE folder. 
 First time user must make file for the vampire, ramulator, and the SIAM tool.
