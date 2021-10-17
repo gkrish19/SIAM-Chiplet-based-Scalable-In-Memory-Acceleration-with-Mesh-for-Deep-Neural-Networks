@@ -28,7 +28,7 @@ Features incorporated in the beta version:
 6. NoP driver and interconnect from Nvidia GRS
 7. Support for a wide range of DNNs (refer to Network folder)
 
-Folder/File Defitions:
+Folder/File Definitions:
 
 SIAM: The main codebase for the IMC and parition and mapping engine
 VAMPIRE: The overall DRAM engine GUI file. This can be run using the final_gui.py file within it
