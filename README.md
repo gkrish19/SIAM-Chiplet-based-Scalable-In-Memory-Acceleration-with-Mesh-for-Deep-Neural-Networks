@@ -46,6 +46,8 @@ To run the NoC and NoP files you must enter the Interconnect folder through the 
 To run the gui for DRAM use the final_gui.py within the VAMPIRE folder. 
 First time user must make file for the vampire, ramulator, and the SIAM tool.
 
+Some of the paths have been hard coded into the main_run.py and python files within the Interconnect folder. The user must change them to desired folder for use. This will be fixed in the next version of SIAM.
+
 The files are hosted in a dropbox folder shared via a link that can used to download the whole repository. This is done as larger fiels exist in the whole framework that limit the upload capabilities. 
 
 If you are using this tool, you are required to cite the following work:
