@@ -51,7 +51,7 @@ Some of the paths have been hard coded into the main_run.py and python files wit
 Dependencies:
 
 1. gcc 7 
-2. >= Python 3.5
+2. Python 3.5 or higher
 
 The files are hosted in a dropbox folder shared via a link that can used to download the whole repository. This is done as larger fiels exist in the whole framework that limit the upload capabilities. 
 
